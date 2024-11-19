@@ -93,7 +93,7 @@ The dashboard was deployed to Microsoft Fabric using the following stages:
 2. **Testing Stage:** Conducted user acceptance testing to validate performance.
 3. **Production Stage:** Published the final version for stakeholders and generated a public sharing link [here](https://app.powerbi.com/view?r=eyJrIjoiNGQ5YzZhMWMtNmJkOS00ODYxLWI0N2QtNDdhNDU4NzI2ZTkyIiwidCI6IjgwZTliY2Y3LTczYTYtNGI5OS1iZWFkLTA2MmNmZjE2MmY5NiJ9).
 
-![Microsoft Fabric Deployment](https://github.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/blob/main/Microsoft%20Fabric%20BI%20Deployment%20Pipeline.png)
+![Microsoft Fabric Deployment Pipeline](https://github.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/blob/main/Adidas%20BI%20Fabric%20Deployment%20Pipeline.png)
 
 ---
 
