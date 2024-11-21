@@ -1,7 +1,7 @@
 # Adidas US Sales Analysis Power BI Project
 ![](https://github.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/blob/main/Adidas%20BI%20Background%20Image...webp)
 ## Introduction
-This project was developed during my **Analytics Extra mentorship program**, aimed at enhancing my data analytics and business intelligence skills. The focus was on creating a visually engaging and interactive dashboard to analyze Adidas US sales data. Leveraging Power BI, I incorporated advanced data modeling, data transformation, and report design techniques. 
+This project was developed during my **Analytics Extra mentorship program** :㊗️, aimed at enhancing my data analytics and business intelligence skills. The focus was on creating a visually engaging and interactive dashboard to analyze Adidas US sales data. Leveraging Power BI, I incorporated advanced data modeling, data transformation, and report design techniques. 
 
 This repository showcases the steps I took to reproduce the project, from data preparation to deploying the dashboard on Microsoft Fabric.
 
@@ -118,5 +118,5 @@ This project demonstrated the power of interactive dashboards in providing actio
 ---
 
 ## Contact
-Feel free to connect with me on LinkedIn or explore my GitHub profile for more projects:
+Feel free :😃 to connect with me on LinkedIn or explore my GitHub profile for more projects:
 - [LinkedIn Profile](https://www.linkedin.com/in/thomasnyanumba) or email thomas.nnyanumba.com 
